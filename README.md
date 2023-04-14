@@ -51,6 +51,20 @@
 ---
 # ressources
 ## Couleurs
+![06A77D](./src/06A77D.png)
+![F1A208](./src/F1A208.png)
+![FF6A6C](./src/FF6A6C.png)
+![3A4454](./src/3A4454.png)
+![F6F7EB](./src/F6F7EB.png)
 
 ## Logotype
+
+![salmon](./src/salmon.png)
+![orange](./src/orange.png)
+![green](./src/green.png)
+----
+![salmonS](./src/salmonS.png)
+![orangeS](./src/orangeS.png)
+![greenS](./src/greenS.png)
+
 
