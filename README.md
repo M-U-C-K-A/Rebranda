@@ -47,3 +47,10 @@
 
 > Ces valeurs reflètent la philosophie et l'approche de Rebranda en matière de travail. 
 > L'entreprise croit qu'elles sont essentielles pour établir des relations durables avec ses clients et pour assurer son succès à long terme.
+
+---
+# ressources
+## Couleurs
+
+## Logotype
+
