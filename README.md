@@ -51,11 +51,13 @@
 ---
 # ressources
 ## Couleurs
-![06A77D](./src/06A77D.png)
-![F1A208](./src/F1A208.png)
-![FF6A6C](./src/FF6A6C.png)
-![3A4454](./src/3A4454.png)
-![F6F7EB](./src/F6F7EB.png)
+<div style="display:flex; justify-content:center;">
+  <img src="./src/06A77D.png" alt="06A77D" width="100" />
+  <img src="./src/F1A208.png" alt="F1A208" width="100" />
+  <img src="./src/FF6A6C.png" alt="FF6A6C" width="100" />
+  <img src="./src/3A4454.png" alt="3A4454" width="100" />
+  <img src="./src/F6F7EB.png" alt="F6F7EB" width="100" />
+</div>
 
 ## Logotype
 
